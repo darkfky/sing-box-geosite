@@ -1,2 +1,1 @@
-https://raw.githubusercontent.com/045200/ad-filter/multi/adblock_clash.yaml
-https://raw.githubusercontent.com/045200/ad-filter/multi/allow_clash.yaml
+
