@@ -9,10 +9,10 @@
 ```json
       {
         "type": "remote",
-        "tag": "adblock",
+        "tag": "AdvertisingLite_Classical",
         "format": "binary",
-        "path": "./ruleset/adblock.srs",
-        "url": "https://raw.githubusercontent.com/darkfky/sing-box-geosite/refs/heads/main/rule/adblock_clash.srs"
+        "path": "./ruleset/AdvertisingLite_Classical.srs",
+        "url": "https://raw.githubusercontent.com/darkfky/sing-box-geosite/refs/heads/main/rule/AdvertisingLite_Classical.srs"
       },
 ```
 
