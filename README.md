@@ -7,13 +7,13 @@
 规则集源文件写法eg:
 
 ```json
-{
-  "tag": "geosite-wechat",
-  "type": "remote",
-  "format": "source",
-  "url": "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json",
-  "download_detour": "auto"
-}
+      {
+        "type": "remote",
+        "tag": "adblock",
+        "format": "binary",
+        "path": "./ruleset/adblock.srs",
+        "url": "https://github.com/darkfky/sing-box-geosite/raw/refs/heads/main/rule/adblock_clash.srs"
+      },
 ```
 
 # 致谢（排名不分先后）
