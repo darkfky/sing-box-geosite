@@ -12,7 +12,7 @@
         "tag": "adblock",
         "format": "binary",
         "path": "./ruleset/adblock.srs",
-        "url": "https://github.com/darkfky/sing-box-geosite/raw/refs/heads/main/rule/adblock_clash.srs"
+        "url": "https://raw.githubusercontent.com/darkfky/sing-box-geosite/refs/heads/main/rule/adblock_clash.srs"
       },
 ```
 
